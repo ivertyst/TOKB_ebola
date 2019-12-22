@@ -1,0 +1,52 @@
+C:\Users\Администратор\Source\Repos\Bi-31 windows\Bi-31 windows\bin\Debug\Bi-31 windows.exe.config
+C:\Users\Администратор\Source\Repos\Bi-31 windows\Bi-31 windows\bin\Debug\Bi-31 windows.exe
+C:\Users\Администратор\Source\Repos\Bi-31 windows\Bi-31 windows\bin\Debug\Bi-31 windows.pdb
+C:\Users\Администратор\Source\Repos\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.csprojAssemblyReference.cache
+C:\Users\Администратор\Source\Repos\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Form1.resources
+C:\Users\Администратор\Source\Repos\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Properties.Resources.resources
+C:\Users\Администратор\Source\Repos\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.csproj.GenerateResource.cache
+C:\Users\Администратор\Source\Repos\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Source\Repos\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.exe
+C:\Users\Администратор\Source\Repos\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.pdb
+C:\Users\Администратор\Source\Repos\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Form2.resources
+C:\Users\Администратор\Source\Repos\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Form3.resources
+C:\Users\Администратор\Source\Repos\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Form4.resources
+F:\Bi-31 windows\Bi-31 windows\bin\Debug\Bi-31 windows.exe.config
+F:\Bi-31 windows\Bi-31 windows\bin\Debug\Bi-31 windows.exe
+F:\Bi-31 windows\Bi-31 windows\bin\Debug\Bi-31 windows.pdb
+F:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.csprojAssemblyReference.cache
+F:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Form1.resources
+F:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Form2.resources
+F:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Form3.resources
+F:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Form4.resources
+F:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Properties.Resources.resources
+F:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.csproj.GenerateResource.cache
+F:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.csproj.CoreCompileInputs.cache
+F:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.exe
+F:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.pdb
+G:\Bi-31 windows\Bi-31 windows\bin\Debug\Bi-31 windows.exe.config
+G:\Bi-31 windows\Bi-31 windows\bin\Debug\Bi-31 windows.exe
+G:\Bi-31 windows\Bi-31 windows\bin\Debug\Bi-31 windows.pdb
+G:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.csprojAssemblyReference.cache
+G:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Form1.resources
+G:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Form2.resources
+G:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Form3.resources
+G:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Form4.resources
+G:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Properties.Resources.resources
+G:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.csproj.GenerateResource.cache
+G:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.csproj.CoreCompileInputs.cache
+G:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.exe
+G:\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.pdb
+C:\Users\admin\Desktop\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.exe
+C:\Users\admin\Desktop\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.pdb
+C:\Users\admin\Desktop\Bi-31 windows\Bi-31 windows\bin\Debug\Bi-31 windows.exe.config
+C:\Users\admin\Desktop\Bi-31 windows\Bi-31 windows\bin\Debug\Bi-31 windows.exe
+C:\Users\admin\Desktop\Bi-31 windows\Bi-31 windows\bin\Debug\Bi-31 windows.pdb
+C:\Users\admin\Desktop\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.Properties.Resources.resources
+C:\Users\admin\Desktop\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Bi-31 windows\Bi-31 windows\obj\Debug\Bi-31 windows.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bi-31 windows\Bi-31 windows\bin\Debug\Database1.mdf
+C:\Users\admin\Desktop\Bi-31 windows\Bi-31 windows\bin\Debug\Database1_log.ldf
+C:\Users\admin\Desktop\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.AuthWin.resources
+C:\Users\admin\Desktop\Bi-31 windows\Bi-31 windows\obj\Debug\Bi_31_windows.all.resources
